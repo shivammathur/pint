@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/pint/compare/v1.21.0...main)
+## [Unreleased](https://github.com/laravel/pint/compare/v1.7.4...main)
+
+## [v1.7.4](https://github.com/laravel/pint/compare/v1.21.0...v1.7.4) - 2025-02-26
+
+Test release workflow
 
 ## [v1.21.0](https://github.com/laravel/pint/compare/v1.20.0...v1.21.0) - 2025-02-18
 
